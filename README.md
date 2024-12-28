@@ -13,8 +13,7 @@ This repository contains the code for the winning model of the Deep Learning Hac
 
 ## Dataset
 
-The dataset used for this hackathon includes labeled images from autonomous vehicle environments, ensuring a robust and diverse training set. The data preprocessing scripts and dataset description are available in the `data` directory.
-
+The dataset used for this hackathon includes labeled images from autonomous vehicle environments, ensuring a robust and diverse training set. The link to the dataset: https://www.kaggle.com/datasets/bishwashk/iims-hackathon-2024
 ## Installation
 
 To get started, clone the repository and install the required dependencies:
