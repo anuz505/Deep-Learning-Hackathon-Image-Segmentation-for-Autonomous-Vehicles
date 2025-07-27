@@ -4,7 +4,7 @@ This repository contains the code for the winning model of the Deep Learning Hac
 
 ## Features
 
-- **Advanced Deep Learning Models**: Utilizes advanced architectures like U-Net, SegNet, or DeepLab for precise image segmentation tailored to autonomous vehicle scenarios.
+- **Advanced Deep Learning Models**: Utilizes advanced architectures like U-Net for precise image segmentation tailored to autonomous vehicle scenarios.
 - **Supervised Learning**: Employs labeled datasets for training to ensure accurate segmentation outputs.
 - **Data Augmentation**: Implements various data augmentation techniques to enhance model generalization and performance.
 - **Custom Loss Functions**: Incorporates custom loss functions to improve segmentation accuracy, particularly in challenging autonomous driving scenarios.
